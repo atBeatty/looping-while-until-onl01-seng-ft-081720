@@ -8,5 +8,5 @@ def using_while
     res_string += "Wingardium Leviosa\n"
     levitation_force += 1
   end
-
+puts res_string
 end
