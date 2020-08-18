@@ -1,6 +1,7 @@
 def using_until
 
   #your code heredef using_until
+  res_string = ''
   levitation_force = 6
   until levitation_force == 10
     puts "Wingardium Leviosa\n"
